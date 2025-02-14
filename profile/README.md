@@ -13,7 +13,7 @@
 **Nusa Market LLC** is dedicated to building **AI-driven solutions** to enhance business efficiency and innovation. We leverage cutting-edge **cloud computing, automation, and artificial intelligence** to transform industries.  
 
 <div align="center">
-  <img src="https://images.unsplash.com/vector-1739128047930-37736a69d3b5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGVjbm9sb2d5JTIwYWl8ZW58MHx8MHx8fDA%3D" alt="AI Technology" width="80%"/>
+  <img src="https://iili.io/2pnag9I.png" alt="AI Technology" width="80%"/>
 </div>
 
 ---
@@ -32,7 +32,7 @@
 🚀 Follow our work & contribute!  
 
 <div align="center">
-  <img src="https://images.unsplash.com/vector-1739369767407-e24e72cf4891?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNsb3VkJTIwYWl8ZW58MHx8MHx8fDA%3D" alt="Cloud AI" width="80%"/>
+  <img src="https://iili.io/2pnaS8N.png" alt="Cloud AI" width="80%"/>
 </div>
 
 ---
