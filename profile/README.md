@@ -32,7 +32,7 @@
 🚀 Follow our work & contribute!  
 
 <div align="center">
-  <img src="https://source.unsplash.com/800x400/?cloud,ai" alt="Cloud AI" width="80%"/>
+  <img src="https://images.unsplash.com/vector-1739369767407-e24e72cf4891?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNsb3VkJTIwYWl8ZW58MHx8MHx8fDA%3D" alt="Cloud AI" width="80%"/>
 </div>
 
 ---
